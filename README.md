@@ -5,7 +5,7 @@
 * Apache Maven 3.8.1 
 
 
-## Для инициализация базы данных необходимо выполнить следующие команды
+## Для инициализация базы данных
 ```
 CREATE USER phonebook_user WITH PASSWORD '123654';
 CREATE DATABASE phonebook;
